@@ -2,6 +2,8 @@
 # May 8 Lab 2
 # Exercise 2
 
+a=2
+b=a
 
 # Trace through the execution of the following program. 
 # Answer the questions in the comments with your group members.
